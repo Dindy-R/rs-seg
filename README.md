@@ -20,7 +20,7 @@
 - pandas
 
 ## 运行：
-修改train.py 中的config名称，yml中相关参数并运行train.py。
+修改.yml中相关参数并运行train.py。
 使用时应以.yml为模板编写自己的配置文件进行训练。
 
 
