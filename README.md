@@ -42,10 +42,9 @@
             ├── val.txt
             ├── test.txt
 ```
-<<<<<<< HEAD
+
 'images'目录存放图像，'labels'目录存放标签，并保证图像和对应的标签同名，ImageSets存放划分的数据集的文件名，tools -> split_data.py  
-=======
-'images'目录存放图像，'labels'目录存放标签，并保证图像和对应的标签同名。  
+
 
 ## TODO：
 - 加入pytorch的混合精度训练(1.6版本开始支持)
