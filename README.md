@@ -49,7 +49,6 @@
 ## TODO：
 - 加入pytorch的混合精度训练(1.6版本开始支持)
 - 加入DDP分布式训练方式  
->>>>>>> parent of c0d9aba (add sgementer.py)
 
 ## 注意事项：
 图像读写用到opencv（训练时）和gdal，注意opencv读入是按BGR排序的；  
